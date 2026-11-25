@@ -1,0 +1,2 @@
+# makefun-lights-out
+Entry for make.fun u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e
